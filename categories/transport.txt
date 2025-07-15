@@ -1,0 +1,56 @@
+Transport for London (TfL)
+National Rail
+Avanti West Coast
+East Midlands Railway
+Great Western Railway
+LNER
+Greater Anglia
+South Western Railway
+Southeastern Railway
+Northern Rail
+TransPennine Express
+CrossCountry
+ScotRail
+Merseyrail
+c2c
+Chiltern Railways
+Thameslink
+Southern Trains
+Gatwick Express
+Heathrow Express
+Eurostar
+Stagecoach
+National Express
+Megabus
+Arriva
+Go-Ahead Group
+FirstGroup
+Uber
+Addison Lee
+Gett
+Bolt
+Ola Cabs
+Black Cab
+Zipcar
+Enterprise Rent-A-Car
+Europcar
+Sixt
+Uber Boat by Thames Clippers
+Dott
+Lime
+Santander Cycles
+BlaBlaCar
+Trainline
+Heathrow Airport
+Gatwick Airport
+Luton Airport
+Citymapper
+Liftshare
+bus
+train
+underground
+taxi
+bike hire
+coach
+local transport
+travelcard

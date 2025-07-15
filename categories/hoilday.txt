@@ -1,0 +1,59 @@
+TUI
+easyJet Holidays
+British Airways Holidays
+Jet2holidays
+Expedia
+Booking.com
+Hotels.com
+Trivago
+Airbnb
+Vrbo
+Secret Escapes
+Lastminute.com
+Thomas Cook
+On the Beach
+Travelodge
+Premier Inn
+Hilton
+Marriott
+IHG
+Accor Hotels
+Radisson Hotels
+Holiday Inn
+Hoseasons
+Butlin’s
+Center Parcs
+Haven Holidays
+Parkdean Resorts
+PGL
+STA Travel
+Cottages.com
+Gulliver’s Resorts
+Kuoni
+Trailfinders
+Audley Travel
+Cruise Nation
+Royal Caribbean International
+P&O Cruises
+Eurostar
+National Express
+Brittany Ferries
+Stena Line
+DFDS Seaways
+Avanti West Coast
+Skyscanner
+Agoda
+Southall Travel
+Heathrow Express
+Rail Europe
+RAC Travel Insurance
+Saga Holidays
+Trailfinders Insurance
+travel
+flights
+hotel
+package holiday
+tour operator
+booking
+resort
+holiday insurance
