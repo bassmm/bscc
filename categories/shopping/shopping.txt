@@ -49,6 +49,8 @@ CEX
 Google Store
 Notonthehighstreet
 Etsy
+Ebay
+Vinted
 clothing
 shoes
 electronics

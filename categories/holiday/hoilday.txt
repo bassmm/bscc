@@ -3,13 +3,11 @@ easyJet Holidays
 British Airways Holidays
 Jet2holidays
 Expedia
-Booking.com
-Hotels.com
 Trivago
 Airbnb
 Vrbo
 Secret Escapes
-Lastminute.com
+Lastminute
 Thomas Cook
 On the Beach
 Travelodge

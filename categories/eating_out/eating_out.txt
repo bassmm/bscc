@@ -43,7 +43,6 @@ The Restaurant Group
 Heartwood Collection
 Stonegate Group
 Inception Group
-
 ASK Italian
 All Bar One
 Barburrito
@@ -98,3 +97,4 @@ Wahaca
 Wok to Walk
 Yo! Sushi
 Zizzi
+Smash Burgers

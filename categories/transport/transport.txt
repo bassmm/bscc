@@ -49,6 +49,8 @@ Liftshare
 bus
 train
 underground
+metro
+tram
 taxi
 bike hire
 coach
